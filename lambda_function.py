@@ -4,6 +4,7 @@ Functions in Python
 A function is a reusable block of code that performs a specific task.
 Functions help in organizing code, improving readability, and avoiding repetition.
 
+
 Common function concepts include:
 1. Defining a function
 2. Function parameters and return values
