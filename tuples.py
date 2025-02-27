@@ -5,6 +5,7 @@ A tuple is an ordered, immutable collection that allows duplicate values.
 Tuples are similar to lists but cannot be modified after creation.
 They are useful when you want to store data that should not change.
 
+
 Common tuple operations include:
 1. Creating a tuple
 2. Accessing elements using indexing & slicing
