@@ -8,6 +8,7 @@ Key components of a function:
 1. Function definition using 'def'
 2. Parameters (optional)
 3. Return value (optional)
+
 """
 
 # Example of a simple function
