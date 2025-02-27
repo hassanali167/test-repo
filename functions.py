@@ -4,6 +4,7 @@ Functions in Python
 Functions are blocks of reusable code that perform a specific task.
 Functions help in code reusability and modularity.
 
+
 Key components of a function:
 1. Function definition using 'def'
 2. Parameters (optional)
