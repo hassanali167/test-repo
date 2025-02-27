@@ -10,6 +10,7 @@ Common function concepts include:
 3. Default parameters
 4. Using *args and **kwargs
 5. Lambda (anonymous) functions
+
 """
 
 # Defining a function
