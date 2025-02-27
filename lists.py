@@ -10,7 +10,9 @@ Common list operations include:
 3. Modifying elements
 4. Adding and removing elements
 5. Iterating over a list
+
 """
+
 
 # Creating a list
 fruits = ["apple", "banana", "cherry", "date"]
