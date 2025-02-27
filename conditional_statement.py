@@ -6,6 +6,7 @@ Python provides three main conditional statements:
 1. if statement
 2. elif statement
 3. else statement
+
 """
 
 # Example of if statement
