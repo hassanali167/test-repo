@@ -1,9 +1,7 @@
 """
 Dictionaries in Python
-
 A dictionary is an unordered, mutable collection that stores data in key-value pairs.
 Dictionaries are optimized for retrieving values when the key is known.
-
 
 Common dictionary operations include:
 1. Creating a dictionary
