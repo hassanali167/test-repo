@@ -1,6 +1,5 @@
 """
 Functions in Python
-
 Functions are blocks of reusable code that perform a specific task.
 Functions help in code reusability and modularity.
 
