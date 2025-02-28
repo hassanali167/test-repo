@@ -1,6 +1,5 @@
 """
 Sets in Python
-
 A set is an unordered collection of unique elements.
 Sets do not allow duplicate values and are commonly used for membership testing and eliminating duplicates.
 
