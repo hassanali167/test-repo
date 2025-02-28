@@ -1,6 +1,5 @@
 """
 Lists in Python
-
 A list is a collection that is ordered and mutable. It allows duplicate members.
 Lists are one of the most commonly used data structures in Python.
 
