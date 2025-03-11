@@ -1,4 +1,30 @@
 """
+Topic: Decorators in Python
+
+Explanation:
+Decorators modify the behavior of functions or methods.
+"""
+
+def my_decorator(func):
+    def wrapper():
+        print("Before function execution")
+        func()
+        print("After function execution")
+    return wrapper
+
+@my_decorator
+def say_hello():
+    print("Hello, World!")
+
+say_hello()
+
+"""
+Code Explanation:
+- `my_decorator()` takes a function as an argument.
+- The wrapper function executes extra code before and after calling `func()`.
+- `@my_decorator` applies the decorator to `say_hello()`.
+"""
+"""
 Topic: Polymorphism in Python
 
 Explanation:
