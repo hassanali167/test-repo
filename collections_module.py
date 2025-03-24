@@ -1,6 +1,7 @@
 """
 Topic: Collections Module in Python
 
+
 Explanation:
 The `collections` module provides specialized data structures like namedtuple, deque, Counter, and defaultdict.
 """
