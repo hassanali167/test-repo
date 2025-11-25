@@ -1,7 +1,6 @@
 """
 Topic: *args and **kwargs in Python
 
-
 Explanation:
 `*args` allows passing multiple positional arguments to a function.
 `**kwargs` allows passing multiple keyword arguments.
