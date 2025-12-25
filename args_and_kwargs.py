@@ -6,7 +6,6 @@ Explanation:
 `**kwargs` allows passing multiple keyword arguments.
 """
 
-
 # Function using *args
 def sum_numbers(*args):
     return sum(args)
