@@ -6,7 +6,6 @@ Python supports Object-Oriented Programming (OOP) with classes and objects.
 A class is a blueprint for creating objects.
 """
 
-
 # Defining a class
 class Person:
     def __init__(self, name, age):
